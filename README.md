@@ -29,3 +29,8 @@ vue add vuex
 vue add router
 vue add electron-builder
 ```
+
+### Upgrade all package
+```
+yarn upgrade --latest
+```
