@@ -27,4 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ```
 vue add vuex
 vue add router
+vue add electron-builder
 ```
