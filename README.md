@@ -26,4 +26,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### Add plugins
 ```
 vue add vuex
+vue add router
 ```
