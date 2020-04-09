@@ -34,3 +34,10 @@ vue add electron-builder
 ```
 yarn upgrade --latest
 ```
+
+### Support less\sass\scss\stylus
+```
+yarn add less less-loader --dev
+yarn add node-sass sass-loader --dev
+yarn add stylus stylus-loader --dev
+```
