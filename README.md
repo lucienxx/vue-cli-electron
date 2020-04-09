@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue-cli-electron
 
 ## Project setup
