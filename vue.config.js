@@ -9,7 +9,7 @@ module.exports = {
         "mac": {
           "icon": "src/assets/icon.png"
         },
-        "win": {
+        "linux": {
           "icon": "src/assets/icon.png"
         },
         "win": {
